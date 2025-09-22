@@ -1,7 +1,7 @@
 # 📌 Client Sign-In & Vendor Submission Automation Flow (n8n)
 
 ---
-
+📄 [View Detailed Workflow Document](https://docs.google.com/document/d/1CFhc9elg8fXUOwYq9jfEmgNUZt1A-mmKcxVCFkO2qt0/edit?usp=sharing)
 ## 🟢 Node 1: Client Sign-In & Link Distribution
 **Expected Output**
 ```json
@@ -56,4 +56,3 @@
 ```
 
 ![Node 1](flow.png)
-📄 [View Detailed Workflow Document](https://docs.google.com/document/d/1CFhc9elg8fXUOwYq9jfEmgNUZt1A-mmKcxVCFkO2qt0/edit?usp=sharing)
