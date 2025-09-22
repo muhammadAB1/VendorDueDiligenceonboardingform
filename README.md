@@ -56,4 +56,4 @@
 ```
 
 ![Node 1](flow.png)
-![Node_2](https://docs.google.com/document/d/1CFhc9elg8fXUOwYq9jfEmgNUZt1A-mmKcxVCFkO2qt0/edit?usp=sharing)
+📄 [View Detailed Workflow Document](https://docs.google.com/document/d/1CFhc9elg8fXUOwYq9jfEmgNUZt1A-mmKcxVCFkO2qt0/edit?usp=sharing)
