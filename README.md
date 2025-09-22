@@ -54,3 +54,5 @@
   "body": "A new vendor submission has been received and stored."
 }
 ```
+
+![Node 1](flow.png)
